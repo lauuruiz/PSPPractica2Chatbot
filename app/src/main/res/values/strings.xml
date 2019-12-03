@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PSPPractica2: ChatBot</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="mensaje_decir">Decir</string>
+    <string name="dime_algo">Dime algo</string>
+    <string name="hablar">Hablar</string>
+    <string name="bot">Bot:</string>
+</resources>
